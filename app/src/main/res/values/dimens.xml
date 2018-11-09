@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_lyt_margin">10dp</dimen>
+    <dimen name="dim_txt_height">40dp</dimen>
+    <dimen name="dim_widget_margin">2dp</dimen>
+</resources>
