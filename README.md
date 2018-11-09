@@ -2,7 +2,7 @@
 
 As an activity transitions from state to state, it is notified of the change by calls to the following protected methods:
 
- void onCreate(Bundle savedInstanceState)
+ void onCreate(Bundle savedInstanceState) \n
  void onStart()
  void onRestart()
  void onResume()
